@@ -1,4 +1,4 @@
-# Cześć! 👋 Jestem Szczepan Abramczyk
+# Cześć! 👋
 
 🎓 **Student Edukacji Techniczno-Informatycznej** na Uniwersytecie Komisji Edukacji Narodowej w Krakowie, ambitny programista, który łączy naukę z praktyką w tworzeniu aplikacji webowych i mobilnych.
 

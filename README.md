@@ -11,8 +11,14 @@
 🌟 **Projekty**:
 1. **[TravelAround](https://github.com/UnluckyKredens/TravelAround)** – Aplikacja mobilna pomagająca użytkownikom w planowaniu wyjazdów:
    - Implementacja widoków.
-   - Integracja z API.
+   - Integracja z API lokalnym i OpenAI API
    - Naprawa podstawowych błędów.
+2. **[ToDoApp](https://github.com/UnluckyKredens/To-Do-App)** - Najprostsza aplikacja do nauki służąca do planowania zadań:
+    - Nauka SwiftUI
+3. **[TeaShop](https://github.com/UnluckyKredens/TeaShop)** - Prosta strona sklepowa sklepu z herbatami
+   - Użycie PHP, i mySQL
+   - Połączenia z bazą danych
+   - Stworznenie prostego i przyjaznego Oku designu
 
 📘 **Edukacja**:
 - Uniwersytet Komisji Edukacji Narodowej w Krakowie – Edukacja Techniczno-Informatyczna (od 2023).

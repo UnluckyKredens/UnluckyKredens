@@ -26,5 +26,5 @@ Jestem studentem II roku z pasją do nauki nowych technologii. W przerwach międ
 
 📌 **Języki**:
 - Polski (ojczysty)
-- Angielski (B1)
+- Angielski (B2)
 
